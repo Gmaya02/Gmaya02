@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://your-image-url-here.com" alt="Gmaya02">
+</p>
 
-<!--
-**Gmaya02/Gmaya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Gmaya02! 👋</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Passionate about coding, exploring new technologies, and building awesome projects.</p>
+
+## 🚀 Skills and Technologies
+
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 💻 Python, C#, kotlin
+- 📊 Data Analysis and Visualization
+- 📱 Mobile App Development
+- 🗄️ Database Management (SQL)
+- 🚀 ...and much more!
+
+## 💼 Professional Experience
+
+- 📈 Business Applications Engineer
+- 💡 Hardware && Software Maintenance
+
+## 🌱 I'm Currently Learning
+
+- 🌐 Cibersecurity
+
+## 📫 Get in Touch
+
+- 📧 Email: guillem.ciber@gmail.com
+
+🌟 Fun Fact: I love to cats!
