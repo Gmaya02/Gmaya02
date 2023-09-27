@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url-here.com" alt="Gmaya02">
-</p>
-
 <h1 align="center">Hello, I'm Gmaya02! 👋</h1>
 
 
