@@ -3,6 +3,9 @@
 <p align="center">🚀 Passionate about coding, exploring new technologies, and crafting amazing digital experiences.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<div>
+  <img align='right' src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="200" alt="img1"/>
+ </div>
 ## ⚡ Skills & Technologies
 
 - 🌐 Web Development
