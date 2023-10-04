@@ -6,6 +6,7 @@
 <div>
   <img align='right' src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="200" alt="img1"/>
  </div>
+ 
 ## ⚡ Skills & Technologies
 
 - 🌐 Web Development
