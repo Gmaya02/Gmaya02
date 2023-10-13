@@ -39,10 +39,6 @@
 
 - 🌐 Cybersecurity
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## 📫 Reach Out to Me
-
-- 📧 Email: guillem.ciber@gmail.com
-  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## ⚡ Other
 
 - <details>
